@@ -70,7 +70,7 @@ You can access the project files [here](https://github.com/asergioscosta/java-ex
 5. Navigate to the class you want to execute or modify: `Invoice`, `Employee`, or `Date`.
 6. Make the necessary changes or run the project to test the implemented functionalities.
 
-Make sure your environment settings are correctly configured.
+Make sure your environment settings are correctly configured
 
 ## Developers
 
