@@ -59,7 +59,7 @@ This project consists of implementations of Java classes to solve exercises. The
 
 ## Accessing the Project
 
-You can access the project files [here](link_to_your_repository) or [download them as a zip file](https://github.com/asergioscosta/java-exercises/archive/refs/heads/main.zip).
+You can access the project files [here](https://github.com/asergioscosta/java-exercise/tree/master/src) or [download them as a zip file](https://github.com/asergioscosta/java-exercises/archive/refs/heads/main.zip).
 
 ## Opening and Running the Project
 
