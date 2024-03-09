@@ -12,7 +12,7 @@
 
 ## Project Description
 
-This project consists of implementations of Java classes to solve exercises. The developed classes are `Fatura` , `Empregado`, and `Data`, with test classes `FaturaTest`, `EmpregadoTest`, and `DataTest`, each addressing language concepts.
+This project consists of implementations of Java classes to solve exercises. The developed classes are `Fatura` , `Empregado`, and `Data`, with test classes `FaturaTeste`, `EmpregadoTeste`, and `DataTeste`, each addressing language concepts.
 
 ## Requirements
 
